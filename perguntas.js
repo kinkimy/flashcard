@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Segunda lei de Mendel',
+    'Um indivíduo com genótipo AabbCcDd apresenta quantos tipos diferentes de gametas?',
+    '8.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Sistema esquelético',
+    'As vértebras são consideradas como qual tipo de osso?',
+    'Osso irregular.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma funçaõ?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Polialelia',
+    'O sistema ABO é uma polialelia que apresenta quatro fenótipos, e mais quantos genótipos diferentes?',
+    'Fenótipos: sangue A, B, AB e O e seis diferentes genótipos.'
 )
 
 criaCartao(
