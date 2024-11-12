@@ -1,7 +1,7 @@
 criaCartao(
-    'Segunda lei de Mendel',
-    'Um indivíduo com genótipo AabbCcDd apresenta quantos tipos diferentes de gametas?',
-    '8.'
+    'Biologia',
+    'A Genética é responsável pelo estudo da hereditariedade. Considera-se que essa ciência tenha iniciado seu desenvolvimento após experimentos aplicados por um monge chamado:',
+    'Mendel'
 )
 
 criaCartao(
