@@ -1,11 +1,11 @@
 :root {
     --text-color: #000;
     --card-front-color: #51AFF7;
-    --card-back-color: #90EE90;
+    --card-back-color: #99EDC3;
 }
 
 body {
-    background: url('img/Blue\ helix\ human\ DNA\ structure.jpeg');
+    background: url('img/Blue\ helix\ human\ DNA\ structure.jpeg') 100px;
     font-family: Bai Jamjuree;
 }
 
