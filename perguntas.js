@@ -5,31 +5,49 @@ criaCartao(
 )
 
 criaCartao(
-    'Sistema esquelético',
-    'As vértebras são consideradas como qual tipo de osso?',
-    'Osso irregular.'
-)
-
-criaCartao(
-    'Polialelia',
-    'O sistema ABO é uma polialelia que apresenta quatro fenótipos, e mais quantos genótipos diferentes?',
-    'Fenótipos: sangue A, B, AB e O e seis diferentes genótipos.'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em inglês?',
-    'Oi em inglês é HI (RAI)'
+    'Biologia',
+    'A composição genética de um indivíduo recebe a denominação de:',
+    'Genótipo.'
 )
 
 criaCartao(
     'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    'Qual o nome da unidade básica da hereditariedade?',
+    'Gene.'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Biologia',
+    'Qual o nome da representação gráfica que apresenta os fenótipos dos membros de uma família e permite analisar o padrão de determinada herança genética nessa família?',
+    'Heredograma.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é fenótipo?',
+    'É o conjunto de características decorrentes da ação do genótipo'
+)
+
+criaCartao(
+    'Biologia',
+    'Qual a probabilidade de um casal heterozigoto para um gene recessivo que causa o albinismo ter um filho normal?',
+    '75%'
+)
+
+criaCartao(
+    'Biologia',
+    'Quantos gametas serão formados por um indivíduo com genótipo PpRr?',
+    '4'
+)
+
+criaCartao(
+    'Biologia',
+    'De acordo com as leis de Mendel, um indivíduo com genótipo Aa produz gametas:',
+    'A e a.'
+)
+
+criaCartao(
+    'Biologia',
+    'Em galinhas, NN é letal, Nn é aleijado e nn é normal. Um grupo de aves aleijadas se acasala.Determine a relação genotípica e a relação fenotípica esperada.',
+    '2:1; 2:1.'
 )
