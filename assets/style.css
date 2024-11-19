@@ -5,8 +5,9 @@
 }
 
 body {
-    background: url('img/Blue\ helix\ human\ DNA\ structure.jpeg') 200%;
+    background: url('img/Blue\ helix\ human\ DNA\ structure.jpeg') ;
     font-family: Bai Jamjuree;
+    background-size: 100px;
 }
 
 #container {
