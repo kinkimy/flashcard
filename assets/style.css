@@ -5,9 +5,14 @@
 }
 
 body {
-    background: url('img/Blue\ helix\ human\ DNA\ structure.jpeg') ;
     font-family: Bai Jamjuree;
-    background-size: 1px;
+    width: 300px;
+    height: 200px;
+    padding: 5px;
+    border: 1px solid #333;
+    background-image: url('img/Blue\ helix\ human\ DNA\ structure.jpeg') ;
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
 }
 
 #container {
